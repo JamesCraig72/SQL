@@ -1,2 +1,2 @@
 # Code Samples  
-Samples of PL/SQL and COBOL programs
+Samples of PL/SQL programs
